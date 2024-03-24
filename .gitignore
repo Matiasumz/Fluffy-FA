@@ -1,0 +1,14 @@
+# Archivos de configuración específicos de tu entorno de desarrollo
+.vscode/
+.idea/
+.env
+
+# Directorio donde se almacenan los archivos generados automáticamente por Python
+__pycache__/
+
+# Archivos de registro y archivos de compilación
+*.log
+*.pyc
+
+# Directorio donde se almacenan las dependencias de Python instaladas
+venv/
